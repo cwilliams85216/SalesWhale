@@ -1,0 +1,71 @@
+@media screen and (min-width: 768px) and (max-width: 1024px)  {
+
+/*Navbar*/
+.home{
+    display: none;
+}
+.navb{
+    display:none;
+}
+.heading{
+    font-size: 35px;
+}
+/*navbar*/
+.sticky-top{
+   display: none;
+}
+h1{
+    font-size: 32px;
+    font-weight: bold;  
+}
+.sub{
+    text-align: center;
+}
+/*culture*/
+.team{
+   margin-left: 45%;
+}
+/*progress*/
+.year{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.pro{
+   
+    font-weight: 400;
+    font-size:16px;
+}
+/*Investors*/
+.card-img{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.combo,.strive{
+    margin-top: 70px;
+}
+.monks,.wave{
+    margin-top: 40px;
+}
+/*future*/
+.demo{
+    margin-left:40%;
+}
+
+/*footer*/
+.foot{
+    font-size: 12px;
+}
+.end{
+    font-size:16px;
+}
+.social{
+    margin-left: 500px;
+    float: right;
+}
+.copy{
+    font-size:12px;
+}
+}

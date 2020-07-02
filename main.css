@@ -1,0 +1,180 @@
+body{
+    background-image: url(svg/geometric.svg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 2000px;
+    background-size: 300%;
+}
+.whale{
+    border-radius:50%;
+}
+
+/*format nav bar*/
+.nav-link{
+    font-family: sans-serif;
+    color:#030522;
+    margin-left: 50px; 
+}
+.navbar-nav{
+    margin-left: 10%;
+}
+.navbar{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+/*Above the fold*/
+#fold{
+    margin-top: 50px;
+}
+.fold{
+    margin-bottom: 180px;
+}
+.col{
+    color: #002240;
+}
+
+h1{
+    font-size: 58px;
+    font-weight: bold;  
+}
+
+
+/*culture*/
+.card-img-top{
+    border-radius: 50%;
+    width:80px;
+    height:80px;
+}
+ .cul{
+    text-align:center;
+    color: #002240;
+}
+.card-deck{
+   margin:50px 0px 50px 0px;
+}
+.team{
+    margin:20px 0px 180px 500px;
+}
+.card-text{
+    color:#537089;
+}
+
+/*progress*/
+.mail{
+    width:50px;
+    height:50px;
+}
+.box{
+    background-color: #EFF8FF;
+    margin-top: 30px;
+    margin-bottom: 180px;
+}
+.fa{
+    border-radius: 50%;
+}
+
+table{
+    margin-left: 10%;
+    border-collapse: separate;
+    border-spacing: 0 40px;
+}
+
+.year{
+    color:#0688FA;
+    font-size: 26px;
+    font-weight: bold;
+}
+.pro{
+    color:#002240;
+    font-weight: 700;
+    font-size:20px;
+}
+
+/*Offices*/
+.address{
+    text-align: center;
+}
+.local{
+    margin-left: auto;
+    margin-right: auto;
+}
+.spot{
+    margin-bottom: 180px;
+}
+
+#shape{
+    width:2500px;
+    
+    margin-left: 0px;
+}
+
+/*Office*/
+.card-img{
+    width:350px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.inv{
+    min-height:200px;
+}
+.combo,.strive{
+    margin-top: 50px;
+}
+.monks,.wave{
+    margin-top: 10px;
+}
+.vestors{
+    margin-bottom: 180px;
+}
+
+/*Future*/
+.future{
+    background-color: #329DFA;
+    padding: 10px;
+    margin-bottom: 180px;
+    ;
+}
+.see{
+    margin-top: 100px;
+    color:#EFF8FF;
+    text-align: center;
+}
+.demo{
+    margin:20px 0px 180px 450px;
+}
+/*adds shadow under cards*/
+.shadow{
+    box-shadow:5px 10px 8px;
+}
+/*footer*/
+a{
+color:#030522;
+}
+.social{
+    margin-left: 800px;
+    float: right;
+}
+.fa-facebook{
+    color: #35589D;
+}
+.fa-twitter{
+    color: #5DA8DC;
+}
+.fa-linkedin{
+    color:#337BB1;
+}
+.sticky-top{
+    font-weight: normal;
+}
+.end{
+    font-size: 26px;
+}
+.jumbotron{
+    background-image: url(svg/sun.svg);
+    background-position-x: 50%;
+    background-position-y: 92%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

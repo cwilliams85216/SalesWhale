@@ -1,0 +1,93 @@
+@media (min-width: 320px) and (max-width: 813px) {
+/*Navbar*/
+
+body{
+    background-image: url(svg/geometric.svg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 3300px;
+    background-size: 300%;
+}
+.home{
+    display: none;
+}
+.navb{
+    display:none;
+}
+.heading{
+    font-size: 26px;
+}
+/*navbar*/
+.sticky-top{
+   display: none;
+}
+h1{
+    font-size: 24px;
+    font-weight: bold;  
+}
+#fold{
+    font-size: 11px;
+
+}
+/*culture*/
+.sub{
+    font-size: 18px !important;
+    
+}
+.team{
+   margin-left: 35%;
+}
+/*progress*/
+.year{
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.pro{
+   
+    font-weight: 400;
+    font-size:11px;
+}
+/*Investors*/
+.card-img{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.combo,.strive{
+    margin-top: 70px;
+}
+.monks,.wave{
+    margin-top: 40px;
+}
+/*future*/
+.demo{
+    margin-left:20%;
+}
+
+/*footer*/
+.foot{
+    display:inline-flexbox;
+    font-size: 10px;
+    
+}
+
+.end{
+    font-size:14px;
+}
+.social{
+    margin-left: 200px;
+    float: right;
+}
+.copy{
+    font-size:9px;
+}
+}
+
+
+
+
+
+
+
