@@ -38,6 +38,9 @@ h1{
     font-size: 58px;
     font-weight: bold;  
 }
+.company-info{
+    color:#537089;
+}
 
 
 /*culture*/
@@ -45,6 +48,10 @@ h1{
     border-radius: 50%;
     width:80px;
     height:80px;
+}
+.sub{
+    font-size: 21px; 
+    color:#537089;
 }
  .cul{
     text-align:center;
@@ -54,7 +61,7 @@ h1{
    margin:50px 0px 50px 0px;
 }
 .team{
-    margin:20px 0px 180px 500px;
+    margin:20px 0px 180px 0px;
 }
 .card-text{
     color:#537089;
@@ -142,7 +149,7 @@ table{
     text-align: center;
 }
 .demo{
-    margin:20px 0px 180px 450px;
+    margin:20px 0px 140px 0px;
 }
 /*adds shadow under cards*/
 .shadow{
@@ -152,18 +159,24 @@ table{
 a{
 color:#030522;
 }
-.social{
-    margin-left: 800px;
-    float: right;
-}
+
 .fa-facebook{
     color: #35589D;
 }
-.fa-twitter{
+.fa-facebook:hover{
+    color: #ffffff;
+}
+.fa-instagram{
     color: #5DA8DC;
+}
+.fa-instagram:hover{
+    color: #ffffff;
 }
 .fa-linkedin{
     color:#337BB1;
+}
+.fa-linkedin:hover{
+    color: #ffffff;
 }
 .sticky-top{
     font-weight: normal;

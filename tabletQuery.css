@@ -1,13 +1,6 @@
-@media (min-width: 320px) and (max-width: 813px) {
-/*Navbar*/
+@media screen and (min-width: 768px) and (max-width: 1024px)  {
 
-body{
-    background-image: url(svg/geometric.svg);
-    background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: 3300px;
-    background-size: 300%;
-}
+/*Navbar*/
 .home{
     display: none;
 }
@@ -15,34 +8,39 @@ body{
     display:none;
 }
 .heading{
-    font-size: 26px;
+    font-size: 35px;
 }
 .navbar-brand{
     font-size: xx-large;
-    margin-left: 15%;
+    margin-left: 40%;
     margin-top: 5%;
 }
 .navbar-brand img{
     width: 50px;
     height:50px;
 }
-/*culture*/
+/*navbar*/
+
+h1{
+    font-size: 32px;
+    font-weight: bold;  
+}
 .sub{
-    font-size: 18px !important;
-    
+    text-align: center;
 }
 
 /*progress*/
 .year{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     
 }
 .pro{
    
     font-weight: 400;
-    font-size:11px;
+    font-size:16px;
 }
+
 /*Investors*/
 .card-img{
     width: 200px;
@@ -59,22 +57,16 @@ body{
 
 /*footer*/
 .foot{
-    display:inline-flexbox;
-    font-size: 10px;
-    
+    font-size: 12px;
 }
 .end{
-    font-size:14px;
+    font-size:16px;
 }
-
+.social{
+    margin-left: 500px;
+    float: right;
+}
 .copy{
-    font-size:9px;
+    font-size:12px;
 }
 }
-
-
-
-
-
-
-
